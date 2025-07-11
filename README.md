@@ -48,11 +48,11 @@ O projeto segue a arquitetura de **três camadas** (interface gráfica, regras d
 
 ## 🧠 Desenvolvedores
 
--Ana Clara
--Ana Luiza
--Adriel
--Maria Luiza
--Matheus
+- Ana Clara
+- Ana Luiza
+- Adriel
+- Maria Luiza
+- Matheus
 
 ---
 
